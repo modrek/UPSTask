@@ -1,0 +1,32 @@
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x86\Debug\UPSTask.exe.config
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x86\Debug\UPSTask.exe
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x86\Debug\UPSTask.pdb
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x86\Debug\UPSTask.frmMain.resources
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x86\Debug\UPSTask.Properties.Resources.resources
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x86\Debug\UPSTask.csproj.GenerateResource.cache
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x86\Debug\UPSTask.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x86\Debug\UPSTask.csproj.CopyComplete
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x86\Debug\UPSTask.exe
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x86\Debug\UPSTask.pdb
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x86\Debug\UPSTask.csprojAssemblyReference.cache
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x86\Debug\UPSTask.UserControls.ucDataView.resources
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\bin\x86\Debug\UPSTask.exe.config
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\bin\x86\Debug\UPSTask.exe
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\bin\x86\Debug\UPSTask.pdb
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\obj\x86\Debug\UPSTask.frmMain.resources
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\obj\x86\Debug\UPSTask.Properties.Resources.resources
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\obj\x86\Debug\UPSTask.UserControls.ucDataView.resources
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\obj\x86\Debug\UPSTask.csproj.GenerateResource.cache
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\obj\x86\Debug\UPSTask.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\obj\x86\Debug\UPSTask.csproj.CopyComplete
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\obj\x86\Debug\UPSTask.exe
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\obj\x86\Debug\UPSTask.pdb
+C:\Users\Mohammad\source\repos\UPSTask - Copy\UPSTask\bin\x86\Debug\System.ComponentModel.Annotations.dll

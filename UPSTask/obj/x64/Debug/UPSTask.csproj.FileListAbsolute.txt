@@ -1,0 +1,14 @@
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x64\Debug\UPSTask.exe.config
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x64\Debug\UPSTask.exe
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x64\Debug\UPSTask.pdb
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x64\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\bin\x64\Debug\System.Net.Http.Formatting.xml
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x64\Debug\UPSTask.frmMain.resources
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x64\Debug\UPSTask.Properties.Resources.resources
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x64\Debug\UPSTask.csproj.GenerateResource.cache
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x64\Debug\UPSTask.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x64\Debug\UPSTask.csproj.CopyComplete
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x64\Debug\UPSTask.exe
+C:\Users\Mohammad\source\repos\UPSTask\UPSTask\obj\x64\Debug\UPSTask.pdb
